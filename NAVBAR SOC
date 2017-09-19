@@ -1,0 +1,45 @@
+/* Respository CSS By : Giri Diwa adam */
+/* //cdn.rawgit.net */
+/* Simple Css */
+/* Magnifier Image By: Blog Djohanes */
+/*!Disclaimer !*/
+/* If You Want This Respository You Must Download */
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+#DNDXSOC {
+	background:#333;
+	border-color:#F00;
+	border-bottom-color:#003;
+	border-radius:5px 5px 5px ;
+	color:#fff;
+	padding:0px;
+	margin:0px;
+}
+</style>
+</head>
+
+<body>
+<div id='DNDXSOC'>
+<img src='http://imageshack.com/a/img924/9219/HCCoHg.png' height="25" width="25"/>
+<a href='http://instagram.com/giri_adam'>
+<span><I>Instagram - </I></span>
+</a>
+<img src='http://imageshack.com/a/img922/1590/aglqMg.png' height="25" width="25"/>
+<a href='http://github.io/giri98'>
+<span><I>Github.io -</I></span>
+</a>
+<img src='http://imageshack.com/a/img924/7662/p6AXYl.png' height="25" width="25"/>
+<a href='http://myanimelist.net/adam_diwa'>
+<span><I>MyAnimelist.net -</I></span>
+</a>
+<span>
+<strong>
+<form action='/search' id='searchthis' method='get' style='display:inline;'><input id='search-box' name='q' size='25' type='text' value='Cari Artikel Disini'/><input id='search-btn' src='http://1.bp.blogspot.com/-V0HUmNl7SIw/UU0aHf73gBI/AAAAAAAAB-U/kqOTcg5llSY/s000/search_32x32-32.png' style='margin-left: 5px; margin: 1px 15px 0px 13px;' type='image' value='Search'/></form>
+</strong>
+</span>
+</div>
+</body>
+</html>
